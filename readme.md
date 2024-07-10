@@ -11,8 +11,8 @@
 
 ## LICENSE
 
-The source code is licensed MIT. Copyright© 2023, AMD lab & Saito40
-
-## Reference
+RhinocerosおよびGrasshopperはRobert McNeel & Associatesの登録商標です。
 
 Crane. https://www.food4rhino.com/en/app/crane. Kai Suto, Kotaro Tanimichi
+
+The source code is licensed MIT. Copyright© 2023, AMD lab & Saito40
